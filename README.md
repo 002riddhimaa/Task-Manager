@@ -1,5 +1,5 @@
 Task Manager:
-A simple and user-friendly **Task Manager web App** built using **HTML, CSS, and JavaScript**.
+A simple and user-friendly **Task Manager Web App** built using **HTML, CSS, and JavaScript**.
 
 Features: 
 Add tasks easily using an input field 
